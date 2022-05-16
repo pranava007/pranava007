@@ -18,7 +18,9 @@ a:link{
 
 a:hover{
 
-    color: blue;
+    color:1px 8px 8px 3px rgba(16,18,18,0.95);
+-moz-box-shadow: 1px 8px 8px 3px rgba(16,18,18,0.95);
+box-shadow: 1px 8px 8px 3px rgba(16,18,18,0.95);
 
 
 }

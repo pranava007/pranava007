@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 💬 Ask me about **Basic javascript**
+- 💬 Ask me about **Basic javascript,HTML,CSS**
 
 - 📫 How to reach me **pranavamuthu000@gmail.com**
 

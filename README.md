@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 💬 Ask me about **Basic javascript,HTML,CSS**
+- 💬 Ask me about ** javascript,HTML5,CSS3,React.js,Node/Express.js,MongoDB**
 
 - 📫 How to reach me **pranavamuthu000@gmail.com**
 
